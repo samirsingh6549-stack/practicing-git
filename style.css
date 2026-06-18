@@ -1,5 +1,7 @@
 *{
     background-color: black;
+        border: 2px solid pink;
+    text-align: center;
 }
 h1{
     color:goldenrod;
@@ -17,4 +19,8 @@ button{
 p{
     color:cyan;
     text-decoration: wavy;
+}
+#sh{
+    color:violet;
+    text-decoration: line-through;
 }
