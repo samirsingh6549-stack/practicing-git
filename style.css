@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+}
+h1{
+    color:goldenrod;
+    text-decoration: wavy;
+    border: 2px solid pink;
+    text-align: center;
+}
+button{
+    color: grey;
+    text-decoration: underline;
+    border: 1px dashed red;
+    text-align: center;
+    margin-left: 229px;
+}
